@@ -1,5 +1,11 @@
 # Credit Card Reader
 
+[//]: # (Image Reference)
+
+[img]: ./assets/1.jpg "SLAM"
+
+![SLAM][img]
+
 ## İnstall
 
 git clone https://github.com/DevC-Istanbul/Credit-Card-Reader
