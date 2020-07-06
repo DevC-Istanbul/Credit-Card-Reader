@@ -10,7 +10,7 @@
 
 git clone https://github.com/DevC-Istanbul/Credit-Card-Reader
 
-cd Eye Blinking
+cd Credit-Card-Reader
 
 Extract credit_card_original.rar
 
